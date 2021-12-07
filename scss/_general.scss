@@ -43,3 +43,34 @@ h6{
 p{
   margin: 0;
 }
+.header{
+  background-color: #CE413A;
+  padding: 20px;
+}
+.pagination{
+  margin-top: 20px;
+ justify-content: center;
+ margin-bottom: 40px;
+}
+.img{
+  width: 159px;
+  height: auto;
+  
+}
+.all__items{
+  width: 24%;
+  margin-bottom: 20px;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  margin: 6px 0;
+}
+.list{
+  display: flex;
+  flex-flow: row wrap;
+  margin-bottom: 20px;
+  justify-content: space-between;
+  text-align: center;
+}
+.title{
+  font-size: 25px;
+}
